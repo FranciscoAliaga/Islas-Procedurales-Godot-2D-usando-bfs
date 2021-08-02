@@ -6,3 +6,4 @@
 - La isla se genera al iniciar.
 - Presiona y suelta <**R**> para reiniciar.
 - Presiona y suelta **<Esc>** para salir.
+- El código principal se encuentra en main.gd
